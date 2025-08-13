@@ -1,1 +1,1 @@
-The program - GEO POINTS DATABASE - changes the [MlengelaPD8]() so that instead of reading in a list of five or more points from a file, the project will read the points in from a dababase. 
+The program - GEO POINTS DATABASE - changes the [MlengelaPD8](https://github.com/CIS1250Python/MlengelaPD8/blob/main/MlengelaDP8.zip) so that instead of reading in a list of five or more points from a file, the project will read the points in from a dababase. 
