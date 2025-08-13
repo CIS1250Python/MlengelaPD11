@@ -7,5 +7,5 @@ Here's what the program does:
     * 35.0856,106.6493, STEMULUS Center
     * 35.1836,106.5939, ATC
 2. Run the database to initialize code to create the database.
-3. Modify GUI program from [MlengelaPD10](https://github.com/CIS1250Python/MlengelaPD10/blob/main/MlengelaDP10.zip) so that it reads points from your database instead of a file.
+3. Modify GUI program from [MlengelaPD10](https://github.com/CIS1250Python/MlengelaPD10/blob/main/MlengelaDP10.zip) so that it reads points from my database instead of a file.
 
